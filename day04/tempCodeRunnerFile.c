@@ -1,1 +1,0 @@
-printf("Factorial  = %d",a);
